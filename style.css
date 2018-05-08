@@ -1,0 +1,8 @@
+body {
+  background-color: beige;
+}
+.draggable {
+}
+.grayscale {
+  filter: grayscale(100%);
+}
